@@ -1,5 +1,6 @@
 # Oxide Permissions
 
+```
 oxide.grant user <name><permission>	            Grants a user a permission
 oxide.revoke user <name><permission>	          Revokes a users permission
 oxide.grant group <group><permission>	          Grants a group a permission
@@ -16,3 +17,4 @@ oxide.show perm <permission> 	                  Shows which user or group has a 
 oxide.show groups/perms	                        Shows all groups or permissions
 oxide.grant group <group> *	                    Grants a group a wildcard. Wildcard simply means all. So this would grant the right to all permissions
 oxide.grant user oxide.*	                      Grants a user all permissions without adding them to the admin group.
+```

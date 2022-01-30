@@ -1,4 +1,4 @@
-# Rust_server
+# Rust_Server
 
 Rust Server Commands
 

@@ -1,4 +1,7 @@
-# Oxide-Rust
+# Rust_server
+
+Rust Server Commands
+
 
 List of Oxide-related commands and permission usage
 
